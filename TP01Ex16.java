@@ -11,7 +11,7 @@ public class TP01Ex16 {
          */
         Scanner scan = new Scanner(System.in);
         double grau, rad;
-        System.out.println("Digite o raio de um esfera: ");
+        System.out.println("Digite o valor do ângulo: ");
         grau = scan.nextDouble();
         
         rad = grau* 0.0175;
